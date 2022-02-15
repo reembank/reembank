@@ -1,6 +1,6 @@
 Hi, I'm **reembank**
 
-I'm a database developer (MS SQL) in the United Kingdom
+I'm a database developer (MS SQL) in the UK
 
 Currently learning C# and Unity to stave off boredom
 
