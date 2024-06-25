@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @reembank
-- 👀 I’m interested in databases, SQL and PHP
-- 🌱 I’m currently learning Java
+- 👀 I work with relational databases
